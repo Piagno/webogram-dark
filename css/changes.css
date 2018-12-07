@@ -1,0 +1,22 @@
+/*IFRAME AVAILABLE*/
+html{display:block!important}
+/*LOGIN AND BACKGROUND*/
+html,.login_head_bg,.login_form_wrap,.login_footer_about_wrap,.countries_modal_wrap,.md_modal_head,.countries_modal_country_wrap,.countries_modal_search_field,.md_simple_modal_body,.md_simple_modal_footer{background-color:black!important}
+a,a:visited,a:focus,a:hover,.btn-md,.btn-md:hover{color:grey!important}
+html,.login_footer_about_wrap,.login_footer_wrap,.login_about_title,h1,h2,h3,h4,h5,.countries_modal_country,.countries_modal_search_field,.login_form_lead,.md-input-label,.md_simple_modal_body,.md_simple_modal_footer{color:white!important}
+.countries_modal_country:hover,.countries_modal_country:hover .countries_modal_country_code{background-color:grey!important;color:white!important}
+.nano-pane{background-color:grey!important}
+.nano-slider{background-color:white!important}
+.md-input{background-color:black;color:white;padding:5px;border-radius:4px;border:1px solid white}
+.md-input-focused{border-bottom:1px solid white!important;border-radius:4px}
+.login_form_wrap{box-shadow:0px 0px!important;-webkit-box-shadow:0px 0px!important}
+.icon-tg-logo{display:none}
+/*TELEGRAM*/
+.tg_head_split,.im_page_split,.tg_head_btn:hover,.im_message_body{background-color:black!important}
+.im_history_not_selected,.im_dialog_peer,.im_dialog_chat_from_wrap,.im_message_text,.tg_head_btn:hover{color:white!important}
+.im_page_wrap{border:none!important;margin:0!important;max-width:100%!important}
+.footer_empty{height:0px!important}
+.tg_head_split{max-width:100%!important}
+.im_dialogs_search_field,.im_dialogs_search_field:hover,.im_dialogs_search_field:focus{background-color:black;color:white;padding:5px;border-radius:4px;border:1px solid white}
+/*MOBILE*/
+.navbar{background-color:black!important}
