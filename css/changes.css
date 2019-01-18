@@ -3,7 +3,7 @@ html{display:block!important}
 /*LOGIN AND BACKGROUND*/
 html,.login_head_bg,.login_form_wrap,.login_footer_about_wrap,.countries_modal_wrap,.md_modal_head,.countries_modal_country_wrap,.countries_modal_search_field,.md_simple_modal_body,.md_simple_modal_footer{background-color:black!important}
 a,a:visited,a:focus,a:hover,.btn-md,.btn-md:hover{color:grey!important}
-html,.login_footer_about_wrap,.login_footer_wrap,.login_about_title,h1,h2,h3,h4,h5,.countries_modal_country,.countries_modal_search_field,.login_form_lead,.md-input-label,.md_simple_modal_body,.md_simple_modal_footer{color:white!important}
+html,.login_footer_about_wrap,.login_footer_wrap,.login_about_title,h1,h2,h3,h4,h5,.countries_modal_country,.countries_modal_search_field,.login_form_lead,.md-input-label,.md_simple_modal_body,.md_simple_modal_footer,body{color:white!important}
 .countries_modal_country:hover,.countries_modal_country:hover .countries_modal_country_code{background-color:grey!important;color:white!important}
 .nano-pane{background-color:grey!important}
 .nano-slider{background-color:white!important}
