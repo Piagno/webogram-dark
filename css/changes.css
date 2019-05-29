@@ -11,6 +11,7 @@ html,.login_footer_about_wrap,.login_footer_wrap,.login_about_title,h1,h2,h3,h4,
 .md-input-focused{border-bottom:1px solid white!important;border-radius:4px}
 .login_form_wrap{box-shadow:0px 0px!important;-webkit-box-shadow:0px 0px!important}
 .icon-tg-logo{display:none}
+.btn-primary,.btn-primary:hover{color: #fff !important}
 /*TELEGRAM*/
 .tg_head_split,.im_page_split,.tg_head_btn:hover,.im_message_body,.md_modal_sections{background-color:black!important}
 .im_history_not_selected,.im_dialog_peer,.im_dialog_chat_from_wrap,.im_message_text,.tg_head_btn:hover{color:white!important}
